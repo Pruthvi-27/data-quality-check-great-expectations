@@ -31,22 +31,6 @@ Interactive Streamlit dashboard for automated customer data cleaning and validat
 ---
 
 ## 📂 Project Structure
-  GX/  <-- Main project folder
-│
-├── data/
-│   ├── raw/          <-- Raw datasets
-│   │   └── dirty_dataset.csv
-│   └── clean/        <-- Cleaned datasets output
-│       └── cleaned_dataset.csv
-│
-├── cleaning/         <-- Python cleaning module
-│   ├── __init__.py
-│   └── customer_cleaning.py
-│
-├── test_run.py       <-- Script to run cleaning
-├── app.py            <-- Streamlit dashboard
-└── README.md
-
 ```
 GX/
 ├── data/
