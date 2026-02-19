@@ -47,6 +47,22 @@ Interactive Streamlit dashboard for automated customer data cleaning and validat
 ├── app.py            <-- Streamlit dashboard
 └── README.md
 
+```
+GX/
+├── data/
+│   ├── raw/
+│   │   └── dirty_dataset.csv
+│   └── clean/
+│       └── cleaned_dataset.csv
+├── cleaning/
+│   ├── __init__.py
+│   └── customer_cleaning.py
+├── test_run.py
+├── app.py
+└── README.md
+```
+
+
 ## ⚡ How to Run Locally
 
 1. Clone the repository:
