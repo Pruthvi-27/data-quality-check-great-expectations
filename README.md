@@ -56,9 +56,11 @@ git clone https://github.com/yourusername/data-quality-check-great-expectations.
 cd data-quality-check-great-expectations
 
 2. Install dependencies:
+```bash
    pip install great-expectations pandas streamlit
 
 3. Run the Streamlit app:
+```bash
    streamlit run app.py
 
 4. Open the local URL (e.g., http://localhost:8501) in your browser.
