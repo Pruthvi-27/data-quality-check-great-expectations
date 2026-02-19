@@ -1,4 +1,4 @@
-# data-quality-check-great-expectations
+# Data-quality-check-great-expectations
 Interactive Streamlit dashboard for automated customer data cleaning and validation using Great Expectations. Detects and resolves all data quality issues, providing a fully cleaned dataset ready for analysis.
 
 ## 🚀 Features
@@ -50,17 +50,13 @@ Interactive Streamlit dashboard for automated customer data cleaning and validat
 ## ⚡ How to Run Locally
 
 1. Clone the repository:
-
-```bash
 git clone https://github.com/yourusername/data-quality-check-great-expectations.git
 cd data-quality-check-great-expectations
 
 2. Install dependencies:
-```bash
    pip install great-expectations pandas streamlit
 
 3. Run the Streamlit app:
-```bash
    streamlit run app.py
 
 4. Open the local URL (e.g., http://localhost:8501) in your browser.
